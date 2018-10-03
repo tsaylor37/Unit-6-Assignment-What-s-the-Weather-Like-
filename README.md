@@ -1,0 +1,2 @@
+# Unit-6-Assignment-What-s-the-Weather-Like-
+Objective: Build a series of scatter plots the shows the relationships between: Temperature (F) vs. Latitude, Humidity (%) vs. Latitude, Cloudiness (%) vs. Latitude and Wind Speed (mph) vs. Latitude. By taking the weather data of random 500+ cities across the world with varying distances from the equator. I will be using the OpenWeatherMap API to gather the data set.
